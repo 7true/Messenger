@@ -2,4 +2,5 @@
     <string name="app_name">Sender</string>
     <string name="send">Send</string>
     <string name="hello_there">Hello there!</string>
+    <string name="chooser">Send message</string>
 </resources>
